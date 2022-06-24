@@ -33,8 +33,11 @@ the first project in the <b>FWD professional  </b> for web development is to mak
 <hr>
 
 [✔] add nice smooth scroll during clicking navbar title using scrollIntoView method.
+
 [✔] highlight the the navbar title after clicking.
+
 ![](images/smooth-scrolling.png)
+
 ![](https://video.udacity-data.com/topher/2021/August/611ac8c6_scroll-to-section/scroll-to-section.gif)
 <hr>
 
