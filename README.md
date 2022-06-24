@@ -25,6 +25,7 @@ the first project in the <b>FWD professional  </b> for web development is to mak
 [✔] change the active class which have css style to other section while scrolling
 
 ![](https://video.udacity-data.com/topher/2021/August/611ac7a9_active-state/active-state.gif)
+
 <hr>
 
 [✔] add nice smooth scroll during clicking navbar title using scrollIntoView method.
