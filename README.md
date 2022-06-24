@@ -10,6 +10,8 @@ the first project in the <b>FWD professional  </b> for web development is to mak
 - Should my function be this many lines of code?
 - Is readability or performance more important?
 
+## Live Demo
+- https://ziad-shaaban.github.io/landing-page/
 ## 📃 Table of Contents
 
 [✔] 1. make a responsive landing page.
@@ -17,7 +19,9 @@ the first project in the <b>FWD professional  </b> for web development is to mak
 - styling the landing page. 
 
 [✔] add 4 section of content to the page.
+
 [✔] build navigation bar dynamically using js.
+
 [✔] adding section titles == section title and with the same number.
 ![](images/section-title.png)
 <hr/>
