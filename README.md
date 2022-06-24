@@ -11,7 +11,8 @@ the first project in the <b>FWD professional  </b> for web development is to mak
 - Is readability or performance more important?
 
 ## Live Demo
-- https://ziad-shaaban.github.io/landing-page/
+- <a href="https://ziad-shaaban.github.io/landing-page/" target="_blank"> Landing-page</a>
+
 ## 📃 Table of Contents
 
 [✔] 1. make a responsive landing page.
@@ -28,7 +29,7 @@ the first project in the <b>FWD professional  </b> for web development is to mak
 
 [✔] change the active class which have css style to other section while scrolling
 
-![](https://video.udacity-data.com/topher/2021/August/611ac7a9_active-state/active-state.gif)
+![](images/active-state.gif)
 
 <hr>
 
@@ -38,7 +39,7 @@ the first project in the <b>FWD professional  </b> for web development is to mak
 
 ![](images/smooth-scrolling.png)
 
-![](https://video.udacity-data.com/topher/2021/August/611ac8c6_scroll-to-section/scroll-to-section.gif)
+![](images/scroll-to-section.gif)
 <hr>
 
 [✔] highlight the relative section title while scrolling.
